@@ -9,9 +9,6 @@
 body{
     background-color: rgb(255, 244, 230);
 }
-.eklenecek{
-    backround-color: rgb(20,20,20);
-}
 header{
     height: 40rem;
     background:linear-gradient(to bottom,rgb(243, 87, 87),rgb(255, 244, 230));
