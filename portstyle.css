@@ -127,9 +127,10 @@
 }
 
 .card .right a{
-    background-color: rgb(218, 51, 32);
+    background-color: rgb(0, 0, 0);
     padding: .4rem;
     margin-right: -.4rem;
+    color: white;
     font-size: 1.3rem;
     border-radius: 10px;
 }
