@@ -5,13 +5,24 @@
     /* list-style: none; */
     text-decoration: none;
 }
+.ikon{
+    width: 35px;
+    height: 35px;
+}
+.socials{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    justify-content: space-between
+}
 
 body{
-    background-color: rgb(255, 244, 230);
+    background-color: rgb(55, 55, 55);
 }
 header{
     height: 40rem;
-    background:linear-gradient(to bottom,rgb(243, 87, 87),rgb(255, 244, 230));
+    background:linear-gradient(to bottom,rgb(87, 108, 243),rgb(55, 55, 55));
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -39,8 +50,8 @@ header{
 }
 
 button{
-    width: 6rem;
-    height: 3.3rem;
+    width: 50px;
+    height: 50px;
     font-size: 1.23rem;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background:radial-gradient(#F39F5A, #AE445A) ;
@@ -67,7 +78,7 @@ button:hover{
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-top: 3rem;
     font-weight: 70;
-    color: #AE445A;
+    color: #00ffc8;
 
 }
 .h22{
@@ -105,16 +116,16 @@ button:hover{
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    font-size: 20px;
+    font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 #recelCanavar{
     width: 5rem;
 
 }
 .content-box a{
-    background-color: #eeee6a;
+    background-color: #ee9c6a;
     color: black;
     padding: 1rem;
     border-radius: 0.5rem;
@@ -129,7 +140,7 @@ button:hover{
     font-size: 18px;
 }
 .content-box p{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .titles{
@@ -154,32 +165,19 @@ button:hover{
 
 #product1{
     background:#c8efd0;
-    border-radius: 0rem;
     transition: 1000ms;
 
 }
-#product2{
-    background: #FAE392;
-    border-radius: 0rem;
-    transition: 1000ms;
-}
-#product3{
-    background:#aecedb;
-    border-radius: 0rem;
-    transition: 1000ms;
-}
+
 #skil1{
     background: linear-gradient(to bottom left, rgb(208, 190, 25),rgb(235, 106, 7));
-    border-radius: 0rem;
 }
 
 #skil2{
     background:linear-gradient(to bottom right, #F39F5A,#903668);
-    border-radius: 0rem;
 }
 #skil3{
     background:linear-gradient(to bottom left,#ECEE81,#EDB7ED);
-    border-radius: 0rem;
 }
 
 #product1:hover{
