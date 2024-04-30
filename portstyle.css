@@ -92,6 +92,7 @@
 }
 .card .left img{
     width: 80px;
+    background-color: antiquewhite;
     border-radius: 10px;
 }
 .card .left h4{
