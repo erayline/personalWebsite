@@ -29,10 +29,11 @@
     align-items: center;
 }
 .upper-upper-left img{
+    padding-left: 1rem;
     width: 8rem;
 }
 .upper-upper-right{
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-weight: 200;
     color: rgb(101, 101, 101);
     display: flex;
