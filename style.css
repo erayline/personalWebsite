@@ -10,7 +10,7 @@
     height: 35px;
 }
 .socials{
-    margin-top: 20px;
+    padding-bottom: 20px;
     display: flex;
     flex-direction: row;
     width: 200px;
@@ -76,16 +76,16 @@ button:hover{
 }
 .h21{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-top: 3rem;
-    font-weight: 70;
+    padding-top: 2rem;
+    font-weight: 50;
     color: #00ffc8;
 
 }
 .h22{
-    padding-bottom: 2.6rem;
+    padding-bottom: 2rem;
+    padding-top: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 50;
-
+    font-weight: 70;
 }
 
 .projects{
@@ -118,7 +118,7 @@ button:hover{
     justify-content: space-between;
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 #recelCanavar{
     width: 5rem;
@@ -150,7 +150,7 @@ button:hover{
     font-size: 1.7rem;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 40;
-    color: rgb(60, 57, 56);
+    color: rgb(255, 255, 255);
 }
 
 .skills{
@@ -164,7 +164,7 @@ button:hover{
 
 
 #product1{
-    background:#c8efd0;
+    background:#f7fff9;
     transition: 1000ms;
 
 }
