@@ -33,13 +33,13 @@ header{
     margin: auto;
     border-radius: 2rem;
     background-color: rgb(255, 244, 230);
-    background-image: url(ben.png);
+    /* background-image: url(ben.png); */
     background-size: cover;
     padding-right: 3rem;
 }
 
 button{
-    width: 13rem;
+    width: 6rem;
     height: 3.3rem;
     font-size: 1.23rem;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -203,3 +203,4 @@ footer{
 #jesus{
     width: 80%;
     padding-top: 4rem;
+}
