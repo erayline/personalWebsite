@@ -72,6 +72,12 @@
     margin-left: 1rem;
     margin-top: -1rem;
 }
+.baslik h2{
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
 .card{
     width: 92%;
     display: flex;
