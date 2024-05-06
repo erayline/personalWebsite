@@ -73,6 +73,7 @@
     margin-top: -1rem;
 }
 .baslik h2{
+    padding-bottom: 2rem;
     font-size: 2rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: flex;
@@ -161,6 +162,16 @@ footer{
 
 @media (min-width: 768px) {
     /* Styles for tablets and larger */
+    .bottom{
+        justify-content: center;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        padding-bottom: 3rem;
+    }
+    .card{
+        width: 400px;
+    }
 }
 
 @media (min-width: 1024px) {
