@@ -102,9 +102,9 @@
     height: 85%;
 }
 .card .left img{
-    width: 90px;
     background-color: antiquewhite;
     border-radius: 10px;
+    width: 90px;
 }
 .card .left h4{
     padding-top: .2rem;
