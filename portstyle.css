@@ -196,6 +196,8 @@ footer {
 @media (min-width: 768px) {
     /* Styles for tablets and larger */
 
+
+
     .upper {
         align-items: center;
         margin: 2rem;
@@ -250,9 +252,6 @@ footer {
         margin-top: 1rem;
         margin-bottom: 1.3rem;
     }
-
-
-
 
 
 
